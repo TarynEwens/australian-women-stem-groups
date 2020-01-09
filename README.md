@@ -59,4 +59,4 @@ These groups aren't aimed at school aged girls
 <br>
 
 ## Contributions
-Your contributions are always welcome! Please ensure to always include the [type](#type) and how people can support the group. If the type is unknown, please try your best to find out before submitting.
+Your contributions are always welcome! Please ensure to always include the [type](#types) and how people can support the group. If the type is unknown, please try your best to find out before submitting.
