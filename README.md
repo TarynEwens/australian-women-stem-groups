@@ -30,8 +30,8 @@ Also includes groups for girls & women of all ages
 
 |                                                                                   | Type | How you can help |
 | --------------------------------------------------------------------------------- | :-----------: | :--------------------------------------------------------------------------------: |
-| [RoboGals](https://my.robogals.org/chapters/)    | Type | Volunteer at or sponsor your local chapter. There are groups in most of the major cities (and some other areas too!).|
-| [Girls Programming Network](http://girlsprogramming.network/) | Type | You can apply to be a tutor for the workshops or set up a GPN near you if there isn’t one already. I’m sure they would also appreciate sponsorship for their workshops! |
+| [RoboGals](https://my.robogals.org/chapters/)    | Community | Volunteer at or sponsor your local chapter. There are groups in most of the major cities (and some other areas too!).|
+| [Girls Programming Network](http://girlsprogramming.network/) | Community | You can apply to be a tutor for the workshops or set up a GPN near you if there isn’t one already. I’m sure they would also appreciate sponsorship for their workshops! |
 | [Her Tech Path](https://hertechpath.org/)     | Community | Once you’re a member you can help out by volunteering to participate in (or conducting) these sessions at high schools across Adelaide. You can also join as a mentor and/or attend regular networking events. |
 | [Tech Girls Movement](https://www.techgirlsmovement.org/)   | Not for profit |  There is a donation link on their website if you would like to support them. |
 | [Rails Girls](https://twitter.com/RailsGirls_AU)   | Community |  You can apply to mentor at an upcoming event, or you can sponsor the individual chapters. |
@@ -59,4 +59,4 @@ These groups aren't aimed at school aged girls
 <br>
 
 ## Contributions
-Your contributions are always welcome! Please ensure to always include the [type](#type) and how people can support the group.
+Your contributions are always welcome! Please ensure to always include the [type](#type) and how people can support the group. If the type is unknown, please try your best to find out before submitting.
