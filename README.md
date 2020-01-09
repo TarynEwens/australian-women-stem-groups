@@ -1,7 +1,7 @@
 # Groups inspiring Australian girls and women in STEM
-> A list of groups inspiring, metoring, and teaching Australian girls and women in STEM areas. 
+> A list of groups inspiring, mentoring, and teaching Australian girls and women in STEM areas. 
 
-This github repo was created after my own research, [a tweet](https://twitter.com/TarynEwens/status/1207167827230117888?s=20), and [a blog post](https://www.taryn.codes/blog/not-for-profit-groups-inspiring-australian-girls-in-stem). It aims to make it easy to find groups that you can support either financially, or with mentoring, etc.
+This github repo was created after my own research, [a tweet](https://twitter.com/TarynEwens/status/1207167827230117888?s=20), and [a blog post](https://www.taryn.codes/blog/not-for-profit-groups-inspiring-australian-girls-in-stem). It aims to make it easy to find groups that you can support, and detail what sort of support they're looking for.
 
 <br> 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
