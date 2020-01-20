@@ -47,6 +47,9 @@ These groups aren't aimed at school aged girls
 | [MusesCodeJS](https://musescodejs.org/)    | Community | Mentor at an event or help with sponsorship! |
 | [Code Like A Girl](https://www.codelikeagirl.com/)   | Social Enterprise |  Corporate partnerships |
 | [She Codes](https://shecodes.com.au/)   | Unknown / other |  Mentor at an event in Perth |
+| [Women Who Code Brisbane](https://www.womenwhocode.com/brisbane)   | Community | Volunteer, become a leader, donate, host an event  |
+| [Women Who Code Melbourne](https://www.womenwhocode.com/melbourne)   | Community | Volunteer, become a leader, donate, host an event  |
+| [Women Who Code Sydney](https://www.womenwhocode.com/sydney)   | Community | Volunteer, become a leader, donate, host an event  |
 
 <br>
 
