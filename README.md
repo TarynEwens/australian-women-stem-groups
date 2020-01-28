@@ -36,6 +36,7 @@ Also includes groups for girls & women of all ages
 | [Tech Girls Movement](https://www.techgirlsmovement.org/)   | Not for profit |  There is a donation link on their website if you would like to support them. |
 | [Rails Girls](https://twitter.com/RailsGirls_AU)   | Community |  You can apply to mentor at an upcoming event, or you can sponsor the individual chapters. |
 | [Girl Geek Academy](https://girlgeekacademy.com/)   | Social Enterprise |  They have an ‘inspire a girl geek’ program coming soon where you can gift a Girl Geek book to a young girl. Keep an eye out for that, it would be such a lovely way to inspire young girls!|
+| [Code Like A Girl](https://www.codelikeagirl.com/)   | Social Enterprise |  Corporate partnerships |
 
 <br>
 
