@@ -37,6 +37,7 @@ Also includes groups for girls & women of all ages
 | [Rails Girls](https://twitter.com/RailsGirls_AU)   | Community |  You can apply to mentor at an upcoming event, or you can sponsor the individual chapters. |
 | [Girl Geek Academy](https://girlgeekacademy.com/)   | Social Enterprise |  They have an ‘inspire a girl geek’ program coming soon where you can gift a Girl Geek book to a young girl. Keep an eye out for that, it would be such a lovely way to inspire young girls!|
 | [Code Like A Girl](https://www.codelikeagirl.com/)   | Social Enterprise |  Corporate partnerships |
+| [She Maps](https://www.shemaps.com)   | Social Enterprise |  Corporate partnerships |
 
 <br>
 
@@ -58,7 +59,7 @@ These groups aren't aimed at school aged girls
 |                                                                                   | Type | How you can help |
 | --------------------------------------------------------------------------------- | :-----------: | :--------------------------------------------------------------------------------: |
 | [Code Club Australia](https://codeclubau.org/)    | Unknown / other | You can join a coding club in your area and volunteer one hour a week, or you can start a club yourself if there are none near you. You can also sponsor them! |
-| [CS in schools](https://csinschools.com/)    | Unknown / other | You can donate or volunteer. Donations receive a deductible gift receipt, so that’s a bonus at tax time. |
+| [CS in schools](https://csinschools.com/)    | Not for Profit | You can donate or volunteer. Donations receive a deductible gift receipt, so that’s a bonus at tax time. |
 
 <br>
 
