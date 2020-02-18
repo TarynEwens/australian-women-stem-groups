@@ -37,6 +37,7 @@ Also includes groups for girls & women of all ages
 | [Rails Girls](https://twitter.com/RailsGirls_AU)   | Community |  You can apply to mentor at an upcoming event, or you can sponsor the individual chapters. |
 | [Girl Geek Academy](https://girlgeekacademy.com/)   | Social Enterprise |  They have an ‘inspire a girl geek’ program coming soon where you can gift a Girl Geek book to a young girl. Keep an eye out for that, it would be such a lovely way to inspire young girls!|
 | [Code Like A Girl](https://www.codelikeagirl.com/)   | Social Enterprise |  Corporate partnerships |
+| [She Maps](https://www.shemaps.com)   | Social Enterprise |  Corporate partnerships |
 
 <br>
 
